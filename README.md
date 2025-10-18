@@ -4,7 +4,7 @@
 
 Lei Liu, Ziqian Hu, Hongwei Zhao, Jiahui Huang, Tengyuan Liu, Hong Wang, Bin Li
 
-This repo contains the code and data from our paper in ICASSP 2026
+This repo contains the code and data from our paper in ICASSP 2026.
 
 ## 1. Abstract
 
