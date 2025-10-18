@@ -1,0 +1,16 @@
+Training and Validation Sets Information
+==================================================
+
+source_dataset: BLexp_redim
+creation_date: 2025-07-28T13:47:45
+N_observation_stations: 20
+start_time_step: 0
+total_time_steps: 100
+validation_grid_size: 319 x 150
+x_range: (0.0, 6.113123009970464)
+y_range: (0.03844731452811613, 2.902772246872768)
+t_range: (0, 99)
+training_set_description: Fixed 20 observation stations with data from all 100 time steps
+validation_set_description: Full spatiotemporal grid with velocity data from 100 time steps
+random_seed: 42
+total_training_points: 2000
