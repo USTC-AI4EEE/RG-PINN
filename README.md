@@ -2,7 +2,7 @@
 
 > **Authors:**
 
-Lei Liu, Ziqian Hu, Hongwei Zhao$^\dagger$, Jiahui Huang, Tengyuan Liu, Hong Wang, Bin Li
+Lei Liu, Ziqian Hu, Hongwei Zhao, Jiahui Huang, Tengyuan Liu, Hong Wang, Bin Li
 
 This repo contains the code and data from our paper in ICASSP 2026
 
@@ -73,5 +73,3 @@ If you find our work useful in your research, please consider citing:
 ```
 
 If you have any problems, contact me via liulei13@ustc.edu.cn.
-
-
